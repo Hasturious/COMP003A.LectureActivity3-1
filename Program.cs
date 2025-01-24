@@ -32,7 +32,7 @@ namespace COMP003A.LectureActivity3_1
             {
                 Console.WriteLine("Good Evening!");
             }
-            else if (hour >= 21 && hour <= 4)
+            else
             {
                 Console.WriteLine("Good Night!");
             }
