@@ -1,4 +1,9 @@
-﻿namespace COMP003A.LectureActivity3_1
+﻿//Author: Jean Bryant Figueroa
+//Course: COMP-003A
+//Facualty: Johnathan Cruz
+//Purpose: Demonstrate selection statements in C#.
+
+namespace COMP003A.LectureActivity3_1
 {
     internal class Program
     {
