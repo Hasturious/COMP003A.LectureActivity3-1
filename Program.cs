@@ -16,6 +16,18 @@
             {
                 Console.WriteLine("Good Morning!");
             }
+            else if (hour >= 12 && hour <= 17)
+            {
+                Console.WriteLine("Good Afternoon!");
+            }
+            else if (hour >= 12 && hour <= 17)
+            {
+                Console.WriteLine("Good Evening!");
+            }
+            else if (hour >= 12 && hour <= 17)
+            {
+                Console.WriteLine("Good Night!");
+            }
         }
     }
 }
